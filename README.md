@@ -1,102 +1,61 @@
-## EXPERIMENT NO. 3 – STAIRCASE WIRING
+# EXP-3
+EXPT NO: 3				STAIR CASE WIRING                     
 
-| **Name:** | | **Reg. No.:** | |
-|---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
+ 
+AIM
+ To control the status of the given lamp by using two–way switches. 
+APPARATUS REQUIRED:
 
----
+S. No.
+Name of the apparatus	
+Range / Type	
+Quantity
 
-## AIM
+1	Incandescent Lamp	60W	1 No.
+2	Lamp Holder	Pendent Type	1 No.
+3	SPDT Switch	230V,5A	2 Nos
+4	Wires	1/18”	As per requirement
+5	P.V.C Pipe	1/4"	As per requirement
+6	Wooden Board	-	1 No.
+7	Round block	-	1 No.
 
-To control the status of the given lamp by using two-way switches.
 
-## APPARATUS REQUIRED
+Theory:
+•	A two way switch is installed near the first step of the stairs. The other two way switch is installed at the upper part where the stair ends.
+•	The light point is provided between first and last stair at an adequate location and height if the light is switched on by the lower switch. It can be switched off by the switch at the top or vice versa.
+•	The circuit can be used at the places like bed room where the person may  not  have  to  travel for switching off the light to the place from where the light is switched on.
+•	Two  numbers  of  two-way  switches  are  used  for  the  purpose.  The supply is given to the switch at the short circuited terminals.
+•	The  connection  to  the  light  point  is  taken  from  the  similar  short circuited  terminal  of  the   second  switch.   Order  two  independent terminals of each circuit are connected through  cables 
+PROCEDURE
+•  Place the accessories on the wiring board as per the circuit diagram.
+•  Place the P.V.C pipe and insert two wires into the P.V.C pipe.
+•	Take one wire connect one end to the phase side and other end to the middle point of SPDT switch 1
+•  Upper point of SPDT switch 1 is connected to the lower point of SPDT
+switch2.
+•  Lower point of SPDT 1 is connected to the upper point SPDT switch2.
+•	Another wire taken through a P.V.C pipe and middle point of SPDT switch 2 is connected to one end of the lamp holder.
+•  Another end of lamp holder is connected to neutral line.
+•  Screw the accessories on the board and switch on the supply.
+•  Circuit is tested for all possible combination of switch positions.
 
-| S. No. | Name of the apparatus | Range / Type | Quantity |
-|:---:|:---:|:---:|:---:|
-| 1 | Incandescent lamp | 60 W | 1 No. |
-| 2 | Lamp holder | Pendant type | 1 No. |
-| 3 | SPDT switch | 230 V, 5 A | 2 Nos. |
-| 4 | Wires | 1/18" | As required |
-| 5 | PVC pipe | 1/4" | As required |
-| 6 | Wooden board | — | 1 No. |
-| 7 | Round block | — | 1 No. |
-| 8 | Simulation software | Proteus Design Suite | 1 |
 
-## THEORY
+Direct connection: CIRCUIT DIAGRAM: 
+<img width="950" height="685" alt="Screenshot 2026-10-14 223039" src="https://github.com/user-attachments/assets/a2c4ee70-0192-4090-853d-365dd694a27b" />
+<img width="977" height="665" alt="Screenshot 2026-10-14 223210" src="https://github.com/user-attachments/assets/36aa728d-e1d3-4c52-8e3f-76549d221475" />
 
-- A two-way switch is installed near the first step of the stairs. The other two-way switch is installed at the upper part where the stairs end.
-- The light point is provided between the first and last stair at an adequate location and height. If the light is switched on by the lower switch, it can be switched off by the switch at the top, or vice versa.
-- The circuit can also be used in places like a bedroom, where the person need not walk back to the place from where the light was switched on in order to switch it off.
-- Two numbers of two-way switches are used for this purpose. The supply is given to the switch at the short-circuited (common) terminal.
-- The connection to the light point is taken from the similar short-circuited (common) terminal of the second switch. The other two independent terminals of each switch are connected through cables.
 
-## PROCEDURE
+Tabulation:1
+<img width="1600" height="851" alt="table 1" src="https://github.com/user-attachments/assets/6801c140-ffda-488b-976c-f6719c0e828b" />
 
-1. Place the accessories on the wiring board as per the circuit diagram.
-2. Place the PVC pipe and insert two wires into the PVC pipe.
-3. Take one wire; connect one end to the phase side and the other end to the middle (common) point of SPDT switch 1.
-4. The upper point of SPDT switch 1 is connected to the lower point of SPDT switch 2.
-5. The lower point of SPDT switch 1 is connected to the upper point of SPDT switch 2.
-6. Another wire is taken through the PVC pipe, and the middle (common) point of SPDT switch 2 is connected to one end of the lamp holder.
-7. The other end of the lamp holder is connected to the neutral line.
-8. Screw the accessories on the board and switch on the supply.
-9. Test the circuit for all possible combinations of switch positions.
+	
+Cross connection: CIRCUIT DIAGRAM:
+<img width="965" height="692" alt="Screenshot 2026-10-14 223241" src="https://github.com/user-attachments/assets/e936d3cc-0c7b-49e7-8d38-c01cbb981d6d" />
+<img width="980" height="678" alt="Screenshot 2026-10-14 223346" src="https://github.com/user-attachments/assets/645e8801-2050-40c3-a682-a6e7f15c6dcf" />
 
-## A. DIRECT CONNECTION
 
-### Circuit diagram
+Tabulation:2
+<img width="1424" height="744" alt="table 2" src="https://github.com/user-attachments/assets/154bb6f7-a211-447a-a327-36c8693943c5" />
 
-*[ Insert the direct connection circuit diagram here ]*
 
-**Figure 1:** Staircase wiring – direct connection
-
-### Tabulation 1: Truth table – direct connection
-
-*Enter the switch position as UP / DOWN (or 1 / 0) and the lamp status as ON / OFF for each combination.*
-
-| S. No. | Switch S1 position | Switch S2 position | Lamp status (ON / OFF) |
-|:---:|:---:|:---:|:---:|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-
-## B. CROSS CONNECTION
-
-### Circuit diagram
-
-*[ Insert the cross connection circuit diagram here ]*
-
-**Figure 2:** Staircase wiring – cross connection
-
-### Tabulation 2: Truth table – cross connection
-
-*Enter the switch position as UP / DOWN (or 1 / 0) and the lamp status as ON / OFF for each combination.*
-
-| S. No. | Switch S1 position | Switch S2 position | Lamp status (ON / OFF) |
-|:---:|:---:|:---:|:---:|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-
-## SIMULATION USING PROTEUS
-
-Build both the direct and cross connection circuits in Proteus using an AC source, two SPDT switches and a lamp. Run the simulation for each switch combination and paste screenshots showing the lamp ON and OFF states.
-
-### A. Direct connection – simulation
-
-*[ Paste the Proteus direct connection simulation screenshot here ]*
-
-**Figure 3:** Proteus simulation – direct connection
-
-### B. Cross connection – simulation
-
-*[ Paste the Proteus cross connection simulation screenshot here ]*
-
-**Figure 4:** Proteus simulation – cross connection
-
-## RESULT
-
-Thus, the staircase wiring was connected and tested for both direct and cross connections, and the lamp was controlled from two different places using two-way switches.
+RESULT:
+Thus the staircase wiring is connected and tested.
